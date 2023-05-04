@@ -15,7 +15,7 @@ It is OS independent: Linux/Windows/MacOS are feasible. The following software s
 Run the following commands in `terminal` application of your choice
 
 * `git clone https://github.com/cloud-simple/vagrant-minikube.git`
-* `cd agrant-minikube`
+* `cd vagrant-minikube`
 * `vagrant up`
 
 ### Kubernetes launch
